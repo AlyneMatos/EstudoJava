@@ -1,2 +1,9 @@
-package Veiculo;public class Veiculo {
+package Entities;
+
+public class Veiculo {
+    public String nome;
+    public int placa;
+    public String modelo;
+    public int ano;
+
 }

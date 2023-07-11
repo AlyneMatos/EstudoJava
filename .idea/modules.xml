@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AceleracaoVeiculo/AceleracaoVeiculo.iml" filepath="$PROJECT_DIR$/AceleracaoVeiculo/AceleracaoVeiculo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EstudoJava.iml" filepath="$PROJECT_DIR$/.idea/EstudoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abaixo_da_media/abaixo_da_media.iml" filepath="$PROJECT_DIR$/abaixo_da_media/abaixo_da_media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alturas/alturas.iml" filepath="$PROJECT_DIR$/alturas/alturas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contaBancaria/contaBancaria.iml" filepath="$PROJECT_DIR$/contaBancaria/contaBancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estoque_loja/estoque_loja.iml" filepath="$PROJECT_DIR$/estoque_loja/estoque_loja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jogo_adivinhacao/jogo_adivinhacao.iml" filepath="$PROJECT_DIR$/jogo_adivinhacao/jogo_adivinhacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/locacao_de_veiculo/locacao_de_veiculo.iml" filepath="$PROJECT_DIR$/locacao_de_veiculo/locacao_de_veiculo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maior_posicao/maior_posicao.iml" filepath="$PROJECT_DIR$/maior_posicao/maior_posicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/negativos/negativos.iml" filepath="$PROJECT_DIR$/negativos/negativos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numeros_pares/numeros_pares.iml" filepath="$PROJECT_DIR$/numeros_pares/numeros_pares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retangulo/retangulo.iml" filepath="$PROJECT_DIR$/retangulo/retangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/salario_funcionario/salario_funcionario.iml" filepath="$PROJECT_DIR$/salario_funcionario/salario_funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soma_vatores/soma_vatores.iml" filepath="$PROJECT_DIR$/soma_vatores/soma_vatores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soma_vetor/soma_vetor.iml" filepath="$PROJECT_DIR$/soma_vetor/soma_vetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/triangulo/triangulo.iml" filepath="$PROJECT_DIR$/triangulo/triangulo.iml" />
+    </modules>
+  </component>
+</project>
